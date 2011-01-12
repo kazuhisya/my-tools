@@ -25,10 +25,7 @@ LoginCopyright ()
 if [ -f /etc/redhat-release ]; then
 RELEASE=`cat /etc/redhat-release`
 echo "$RELEASE" >> /etc/motd
-echo "-------------------------------------------------------" >> /etc/motd
 fi
-echo "Copyright 2010 Kazuhisa Hara" >> /etc/motd
-echo "All Rights Reserved." >> /etc/motd
 }
 
 ServerInfo ()
