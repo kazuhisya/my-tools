@@ -7,10 +7,8 @@
 #
 # Released under an MIT-style license.
 # 
-# Usage: setting root`s .bashrc
-#      if [ $TERM = "xterm" ];then
+# Usage: just execute, or setting root`s .bashrc
 #        /path/to/motd.sh
-#      fi
 
 
 OrigMotd ()
