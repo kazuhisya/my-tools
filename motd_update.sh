@@ -8,7 +8,7 @@
 # Released under an MIT-style license.
 # 
 # Usage: just execute, or setting root`s .bashrc
-#        /path/to/motd.sh
+#        /path/to/motd_update.sh
 
 
 OrigMotd ()
