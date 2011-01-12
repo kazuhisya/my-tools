@@ -15,8 +15,8 @@
 
 OrigMotd ()
 {
-if [ ! -f /etc/motd.orig ]; then
-cp /etc/motd /etc/motd.orig
+if [ ! -f /etc/motd.org ]; then
+cp /etc/motd /etc/motd.org
 fi
 }
 echo "-------------------------------------------------------" > /etc/motd
