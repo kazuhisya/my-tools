@@ -9,6 +9,7 @@
 # 
 # Usage: just execute, or setting root`s .bashrc
 #        /path/to/motd_update.sh
+# see also: https://gist.github.com/778962
 
 
 OrigMotd ()
