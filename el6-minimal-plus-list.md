@@ -22,7 +22,7 @@
 * Utility
 
 ~~~
-# yum install -y screen lsof man htop sysstat git subversion
+# yum install -y screen lsof man htop sysstat iotop git subversion
 ~~~
 
 
